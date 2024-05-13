@@ -23,3 +23,5 @@ break;
 default:
  System.out.printf("%d월은 가을입니다." month);
 }
+
+switch 연습입니다.
